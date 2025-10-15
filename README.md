@@ -10,8 +10,7 @@ A curated collection of **Chinese movie websites**, reviews, and streaming platf
 
 ## 🌟 Featured Sites / 推荐站点
 - [🎞️ yezitv.com.com](https://yezitv.com.com) — 高清影视资源、在线播放与影评整理  
-- [影视百科](https://218m.com) — 电影资讯、演员介绍、评分与推荐  
-- [追剧天堂](https://tianao99.com) — 热门剧集、影视榜单与评论区互动  
+
 
 > 欢迎提交更多优秀影视站点或影评资源。
 
