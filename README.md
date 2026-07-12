@@ -9,9 +9,12 @@ A curated collection of **Chinese movie websites**, reviews, and streaming platf
 ---
 
 ## 🌟 Featured Sites / 推荐站点
-- [🎞️ yezitv.com.com](https://yezitv.com.com) — 高清影视资源、在线播放与影评整理  
+- [🎞️ yezitv.com](https://yezitv.com) — 高清影视资源、在线播放与影评整理  
 
-
+- yezitv.com
+- fawtv.com
+- 164008.com
+- 8090dyw.com
 > 欢迎提交更多优秀影视站点或影评资源。
 
 ---
@@ -23,6 +26,6 @@ This repository is built to help users discover high-quality **Chinese film & TV
 ---
 
 ## 🔗 Visit / 访问主站
-👉 **Website:** [https://yezitv.com.com](https://yezitv.com.com)  
+👉 **Website:** [https://yezitv.com](https://yezitv.com)  
 📺 Discover movies, reviews, and streaming options all in one place.  
 📽️ 中文影视资源、电影解说、影单推荐，一站式观影平台。
